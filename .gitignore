@@ -1,0 +1,33 @@
+# MPV缓存和临时文件
+watch_later/
+**/log
+*.log
+.DS_Store
+Thumbs.db
+cache/
+*.cache
+
+# 缩略图临时文件
+thumbfast.out
+thumbfast.out.bgra
+
+# 可能的个人配置文件
+portable_config/history.txt
+portable_config/bookmarks.conf
+
+# 编译文件
+*.dll.a
+*.so
+*.o
+*.exe
+*.dll
+*.dylib
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# 个人偏好文件，可能因用户而异
+portable_config/script-opts/user_*.conf 
