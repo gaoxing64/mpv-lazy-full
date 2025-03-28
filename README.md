@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MPV-Lazy
 
 MPV-Lazy是一个功能丰富的MPV播放器预配置包，旨在为用户提供开箱即用的高级视频播放体验。通过集成多种实用脚本和优化设置，MPV-Lazy提供了丰富的功能，如高质量视频渲染、进度条缩略图预览、视频补帧和超分辨率等。
@@ -129,3 +130,6 @@ MPV-Lazy集成了多种视频补帧算法，可以通过快捷键快速启用：
 - [thumbfast脚本](https://github.com/po5/thumbfast)
 - [原版mpv-lazy项目](https://github.com/hooke007/MPV_lazy)
 - 所有为MPV社区贡献的开发者 
+=======
+# mpv-lazy-full
+>>>>>>> 2a73984cf7b01a9e328eb527a0eb698886aec9e6
